@@ -1,0 +1,6 @@
+{
+  "name": "StrikeElite - Football Boots Store & Management Platform",
+  "description": "منصة متطورة لتجارة أحذية كرة القدم الرياضية مع مصادقة JWT، لوحة تحكم متقدمة لإدارة الطلبات والمخزون وتحليل المبيعات، وواجهة تسوق متميزة للعملاء.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
